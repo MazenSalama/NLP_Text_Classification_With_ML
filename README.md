@@ -67,7 +67,31 @@ Model Building step in which a machine learning model is trained on a labelled d
 
 -Other Variants of Deep Neural Networks
 
+# The diagnostic measures covered are:
 
+1) accuracy: proportion of test results that are correct
+
+2) sensitivity: proportion of true +ve identified
+
+3) specificity: proportion of true -ve identified
+
+4) positive likelihood: increased probability of true +ve if test +ve
+
+5) negative likelihood: reduced probability of true +ve if test -ve
+
+6) false positive rate: proportion of false +ves in true -ve patients
+
+7) false negative rate: proportion of false -ves in true +ve patients
+
+8) positive predictive value: chance of true +ve if test +ve
+
+9) negative predictive value: chance of true -ve if test -ve
+
+10) precision = positive predictive value
+
+11) recall = sensitivity
+
+12) f1 = (2 * precision * recall) / (precision + recall)
 
 # 4. Improve Performance of Text Classifier: 
 
