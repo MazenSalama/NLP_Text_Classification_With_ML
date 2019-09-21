@@ -10,10 +10,6 @@ Text Classification is one model of supervised machine learning task with a labe
 Dataset Preparation step which includes the process of loading a dataset and performing basic pre-processing. The dataset is then splitted into train and validation sets.
 
 
-# 2. Feature Engineering: 
-
-Feature Engineering in which the raw dataset is transformed into flat features which can be used in a machine learning model. This step also includes the process of creating new features from the existing data.
-
 # 2. Feature Engineering
 
 In this step, raw text data will be transformed into feature vectors #and new features will be created using the existing dataset. We will implement the following different ideas in #order to obtain relevant features from our dataset.
