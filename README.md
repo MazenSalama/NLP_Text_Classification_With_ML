@@ -92,3 +92,6 @@ Model Building step in which a machine learning model is trained on a labelled d
 # 4. Improve Performance of Text Classifier: 
 
 we will use different ways to improve the performance of text classifiers.
+
+# 5. Machine learning classifiers interpretability
+Using ELI5 
